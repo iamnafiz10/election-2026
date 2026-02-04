@@ -7,4 +7,5 @@
 
 .custom-gradient {
     background: linear-gradient(135deg, #20cf4414, #f63b3b70);
+    border-radius: 15px;
 }
